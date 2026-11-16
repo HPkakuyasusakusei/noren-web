@@ -229,3 +229,9 @@ header .wrap{max-width:1240px}
 .zprice{font-family:var(--serif);font-size:2.4rem;font-weight:700;line-height:1.4;color:#fff}
 .zprice small{font-size:.95rem;font-weight:400;color:#c9c2b4;margin-left:6px}
 .zdesc{font-size:.93rem;color:#c9c2b4;margin-top:6px!important}
+
+/* hero: centered text (2026-11-18) */
+.hero:before{background:linear-gradient(180deg,rgba(14,19,22,.7),rgba(14,19,22,.6) 50%,rgba(14,19,22,.75))}
+.hero .wrap{text-align:center}
+.hero p.brand{display:inline-block;text-align:left}
+.hero .actions{justify-content:center}
