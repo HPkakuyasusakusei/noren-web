@@ -205,3 +205,19 @@ footer p{margin:4px 0}
 .hero .btn{padding:clamp(14px,2.2vh,19px) clamp(24px,3.6vw,44px);font-size:clamp(.92rem,1.7vw,1.12rem)}
 .hero .btn-icon{width:clamp(52px,6.5vh,62px);height:clamp(52px,6.5vh,62px);padding:0}
 header .wrap{max-width:1240px}
+
+/* image enhancement 2026-11-18 */
+.track img{height:210px}
+.reason{padding:0 0 26px;overflow:hidden}
+.reason img{display:block;width:100%;height:150px;object-fit:cover;margin-bottom:22px}
+.reason b,.reason h3,.reason p{margin-left:24px;margin-right:24px}
+.opt{padding:0 0 26px;overflow:hidden}
+.opt img{display:block;width:100%;height:170px;object-fit:cover;margin-bottom:22px}
+.opt h3,.opt p{margin-left:28px;margin-right:28px}
+.gallery{padding:72px 0 96px}
+.mosaic{grid-auto-rows:230px}
+.band{display:grid;grid-template-columns:repeat(4,1fr)}
+.band img{display:block;width:100%;height:260px;object-fit:cover}
+.pg img{height:170px}
+@media(max-width:900px){.band{grid-template-columns:repeat(2,1fr)}.band img{height:170px}}
+@media(max-width:640px){.gallery{padding:48px 0 68px}.mosaic{grid-auto-rows:150px}.track img{height:130px}.reason img{height:130px}}
