@@ -235,3 +235,8 @@ header .wrap{max-width:1240px}
 .hero .wrap{text-align:center}
 .hero p.brand{display:inline-block;text-align:left}
 .hero .actions{justify-content:center}
+
+/* how it works */
+.how{padding:72px 0 8px}
+.reason.nopic{padding-top:28px}
+.how .reason b,.how .reason h3,.how .reason p{margin-left:24px;margin-right:24px}
