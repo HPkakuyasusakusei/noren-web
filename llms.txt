@@ -12,3 +12,6 @@
 ## ページ
 - [トップページ(サービス・料金・流れ・よくあるご質問・お問い合わせ)](https://hpnoren-web.com/)
 - [サンプルサイト一覧(すべて架空のお店の見本)](https://hpnoren-web.com/sample/)
+- [飲食店のホームページ制作](https://hpnoren-web.com/restaurant/)
+- [美容室のホームページ制作](https://hpnoren-web.com/salon/)
+- [トリミングサロンのホームページ制作](https://hpnoren-web.com/trimming/)
